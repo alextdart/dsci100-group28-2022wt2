@@ -1,4 +1,4 @@
-"","Resort","Country","HighestPoint","LowestPoint","DayPassPriceAdult","BeginnerSlope","IntermediateSlope","DifficultSlope","TotalSlope","Snowparks","NightSki","SurfaceLifts","ChairLifts","GondolaLifts","TotalLifts","LiftCapacity","SnowCannons"
+"Row","Resort","Country","HighestPoint","LowestPoint","DayPassPriceAdult","BeginnerSlope","IntermediateSlope","DifficultSlope","TotalSlope","Snowparks","NightSki","SurfaceLifts","ChairLifts","GondolaLifts","TotalLifts","LiftCapacity","SnowCannons"
 "1","Alpendorf (Ski amedé)","Austria",1980,740,52,30,81,4,115,"Yes","No",22,16,11,49,75398,600
 "2","Soldeu-Pas de la Casa/​Grau Roig/​El Tarter/​Canillo/​Encamp (Grandvalira)","Andorra",2640,1710,47,100,77,33,210,"Yes","Yes",37,28,7,72,99017,1032
 "3","Oberau (Wildschönau)","Austria",1130,900,30,1,0,1,2,"No","No",2,0,0,2,1932,0
