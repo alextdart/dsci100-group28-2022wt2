@@ -1,2 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# Group 28 DSCI 100 Project
+A predictive analysis of European Ski Resorts
